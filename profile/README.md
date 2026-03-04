@@ -2,7 +2,7 @@
 
 ## Building Community in Computer Science
 
-ColorStack at FIU is a student-led community dedicated to supporting Black and Latinx students in computing at Florida International University.
+ColorStack at FIU is a student-led community dedicated to supporting students in computing at Florida International University.
 
 Our chapter connects students with mentorship, technical resources, and professional development opportunities while fostering an inclusive and collaborative environment within the computing community.
 
@@ -10,7 +10,7 @@ Our chapter connects students with mentorship, technical resources, and professi
 
 ## Mission
 
-The mission of ColorStack at FIU is to increase the number of Black and Latinx students who graduate with computer science and engineering degrees and go on to successful careers in technology.
+The mission of ColorStack at FIU is to increase the number of students who graduate with computer science and engineering degrees and go on to successful careers in technology.
 
 We support students through:
 
@@ -50,7 +50,7 @@ Website
 https://colorstackatfiu.vercel.app
 
 LinkedIn  
-https://www.linkedin.com/company/colorstack
+https://www.linkedin.com/company/colorstackatfiu
 
 ---
 
